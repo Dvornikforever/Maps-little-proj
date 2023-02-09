@@ -5,4 +5,4 @@ START_MODE = 'map'
 
 # main window
 FPS = 60
-SIZE = (600, 600)
+SIZE = (600, 450)
