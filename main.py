@@ -1,7 +1,7 @@
 import sys
 import pygame
 
-from constanst import *
+from constants import *
 
 pygame.init()
 clock = pygame.time.Clock()
