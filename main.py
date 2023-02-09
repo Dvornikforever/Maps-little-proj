@@ -5,8 +5,7 @@ from constanst import *
 
 pygame.init()
 clock = pygame.time.Clock()
-screen = pygame.display.set_mode(START_SIZE)
-is_fullscreen = False
+screen = pygame.display.set_mode(SIZE)
 last_size = screen.get_size()
 
 while True:
